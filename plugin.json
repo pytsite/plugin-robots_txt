@@ -1,0 +1,19 @@
+{
+  "name": "robots_txt",
+  "version": "1.0",
+  "description": {
+    "en": "robots.txt",
+    "ru": "robots.txt",
+    "uk": "robots.txt"
+  },
+  "url": "https://github.com/pytsite/plugin-robots_txt",
+  "author": {
+    "name": "Alexander Shepetko",
+    "email": "a@shepetko.com",
+    "url": "https://shepetko.com"
+  },
+  "requires": {
+    "packages": [],
+    "plugins": []
+  }
+}
